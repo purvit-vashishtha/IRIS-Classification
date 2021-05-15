@@ -1,2 +1,2 @@
 # IRIS-Classification
-Iris classification using Machine Learning
+Iris classification using Machine Learning Model.
